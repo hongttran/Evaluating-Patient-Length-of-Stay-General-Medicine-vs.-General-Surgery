@@ -1,4 +1,4 @@
-<h1>Evaluating Patient Length of Stay in General Medicine vs. General Surgery: Descriptive statistics and data visualization</h1>
+<h1>Evaluating Patient Length of Stay in General Medicine vs. General Surgery: descriptive statistics and data visualization</h1>
 
 <h2>Description</h2>
 This project involves analyzing and evaluating the performance of the General Medicine service line concerning patient length of stay (LOS). The analysis is prompted by concerns from the General Surgery team, which suggests that the General Medicine team's longer LOS may indicate inefficiencies and unnecessary bed utilization. The objective is to provide a data-driven assessment to address these concerns and offer actionable recommendations.
