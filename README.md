@@ -6,7 +6,7 @@ This project involves analyzing and evaluating the performance of the General Me
 <br />
 
 <h2>Program walk-through:</h2>
-[View the Presentation](https://docs.google.com/presentation/d/e/2PACX-1vShiCsjDTAdge88uwRS58o_xYmEwKyFasndF-w4Rsehxi_Xtu4Jnhz4K-JiRuVEA6Aa3-cxb1Xbk7XG/pub?start=false&loop=false&delayms=3000)
+[[View the Presentation]](https://docs.google.com/presentation/d/e/2PACX-1vShiCsjDTAdge88uwRS58o_xYmEwKyFasndF-w4Rsehxi_Xtu4Jnhz4K-JiRuVEA6Aa3-cxb1Xbk7XG/pub?start=false&loop=false&delayms=3000)
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
