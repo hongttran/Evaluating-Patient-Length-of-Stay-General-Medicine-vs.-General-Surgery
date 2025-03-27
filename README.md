@@ -36,7 +36,11 @@ This project involves analyzing and evaluating the performance of the General Me
 
 <h2>Dashboard Preview:</h2>
 <p align="center"><br/>
-<img src="https://i.imgur.com/HIIk6Yo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HIIk6Yo.png" height="100%" width="100%" alt="Assignment #4"/>
+<br />
+
+<p align="center"><br/>
+<img src="https://i.imgur.com/5yjTNmV.png" height="100%" width="100%" alt="Assignment #8"/>
 <br />
 
 <h2>Demonstrations:</h2>
