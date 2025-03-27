@@ -22,7 +22,7 @@ This project involves analyzing and evaluating the performance of the General Me
 
 <h2>Program walk-through:</h2>
 
-[![Presentation Title](https://docs.google.com/17Zd7jnPRNTCM7b3GvANC4bMmZd_X5GbJGPJKekPGzO0/edit?slide=id.g3345b1250bb_0_17#slide=id.g3345b1250bb_0_17)](https://docs.google.com/presentation/d/your_presentation_id/view)
+[Evaluating Patient Length of Stay in General Medicine vs. General Surgery](https://docs.google.com/presentation/d/e/2PACX-1vShiCsjDTAdge88uwRS58o_xYmEwKyFasndF-w4Rsehxi_Xtu4Jnhz4K-JiRuVEA6Aa3-cxb1Xbk7XG/pub?start=false&loop=false&delayms=3000)
 
 <!--
  ```diff
