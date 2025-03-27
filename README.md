@@ -4,6 +4,11 @@
 This project involves analyzing and evaluating the performance of the General Medicine service line concerning patient length of stay (LOS). The analysis is prompted by concerns from the General Surgery team, which suggests that the General Medicine team's longer LOS may indicate inefficiencies and unnecessary bed utilization. The objective is to provide a data-driven assessment to address these concerns and offer actionable recommendations.
 <br />
 
+<h2>Dashboard Preview:</h2>
+<p align="center"><br/>
+<img src="https://i.imgur.com/HIIk6Yo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <h2>Demonstrations:</h2>
 
 ### [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vShiCsjDTAdge88uwRS58o_xYmEwKyFasndF-w4Rsehxi_Xtu4Jnhz4K-JiRuVEA6Aa3-cxb1Xbk7XG/pub?start=false&loop=false&delayms=3000)
