@@ -7,14 +7,13 @@ This project involves analyzing and evaluating the performance of the General Me
 
 <h2>Program walk-through:</h2>
 
-### [Presentation](https://tinyurl.com/2zeyef6r)
+### [Presentation](https://docs.google.com/presentation/d/17Zd7jnPRNTCM7b3GvANC4bMmZd_X5GbJGPJKekPGzO0/edit?usp=sharing)
 ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Utilities Used</h2>
 
 - <b>Microsoft Excel</b> 
 - <b>Microsoft Power BI</b>
-
 
 <h2>Environments Used </h2>
 
