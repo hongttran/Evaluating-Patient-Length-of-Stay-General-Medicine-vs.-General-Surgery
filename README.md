@@ -14,6 +14,7 @@ This project involves analyzing and evaluating the performance of the General Me
 
 - <b>Microsoft Excel</b> 
 - <b>Microsoft Power BI</b>
+- <b>Google Slides</b>
 
 <h2>Environments Used </h2>
 
