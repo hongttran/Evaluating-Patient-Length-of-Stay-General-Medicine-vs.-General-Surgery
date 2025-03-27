@@ -17,6 +17,19 @@ This project involves analyzing and evaluating the performance of the General Me
 <p>Several external factors influence Length of Stay (LOS) in Internal Medicine. Patient complexity plays a major role, as those with heart failure, pneumonia, or sepsis often require prolonged care. Additionally, hospital resources, including ICU bed availability, specialist access, and discharge planning efficiency, directly impact LOS. Insurance and post-discharge planning delays, such as waiting for rehabilitation facility approvals, skilled nursing placements, or home care arrangements, can further extend hospitalization beyond the necessary medical care period.
 </p>
 
+<h3>Recommendations & Next Steps</h3>
+
+
+<b>Short-Term Strategies (Immediate Impact)</b>
+- <p>Improve discharge planning by reducing delays in rehab placements, skilled nursing transfers, and home care coordination to ensure timely patient transitions.</p>
+- <p>Streamline specialist consults to avoid unnecessary inpatient days waiting for assessments.</p>
+- <p></p>Utilize step-down units efficiently to free up higher-acuity beds for critical patients.</p>
+
+<b>Long-Term Strategies (Sustained Improvement)</b>
+- <p>Identify Diagnosis-Related Groups (DRGs) with the highest LOS, such as sepsis, respiratory infections, and intracranial hemorrhage, and develop targeted interventions.</p>
+- <p> Implement early intervention programs to proactively manage high-risk patients and prevent prolonged hospital stays.</p>
+- <p>Enhance hospital resource allocation, including staffing adjustments, ICU bed management, and technology-driven workflow improvements.</p>
+
 
 <h2>Dashboard Preview:</h2>
 <p align="center"><br/>
@@ -25,7 +38,6 @@ This project involves analyzing and evaluating the performance of the General Me
 
 <h2>Demonstrations:</h2>
 
-### [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vShiCsjDTAdge88uwRS58o_xYmEwKyFasndF-w4Rsehxi_Xtu4Jnhz4K-JiRuVEA6Aa3-cxb1Xbk7XG/pub?start=false&loop=false&delayms=3000)
 ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Utilities Used</h2>
