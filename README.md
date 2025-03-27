@@ -9,7 +9,7 @@ This project involves analyzing and evaluating the performance of the General Me
 <h3>Interpretations and Findings:</h3>
 
 
-<b>Why is Internal Medicine LOS Higher Than General Surgery?</b>
+<h4>Why is Internal Medicine LOS Higher Than General Surgery?</h4>
 <p>General Surgery patients typically follow structured recovery protocols, enabling early discharges after procedures. In contrast, Internal Medicine patients often present with chronic or complex conditions, requiring longer hospital stays for comprehensive management. The higher LOS in Internal Medicine DRGs, such as sepsis and respiratory illnesses, aligns with conditions that demand extended monitoring and treatment to ensure stability before discharge.</p>
 
 
