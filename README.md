@@ -43,9 +43,7 @@ This project involves analyzing and evaluating the performance of the General Me
 <img src="https://i.imgur.com/5yjTNmV.png" height="100%" width="100%" alt="Assignment #8"/>
 <br />
 
-<h2>Demonstrations:</h2>
 
-### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Utilities Used</h2>
 
@@ -60,6 +58,9 @@ This project involves analyzing and evaluating the performance of the General Me
 
 
 <!--
+<h2>Demonstrations:</h2>
+
+### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
  ```diff
 - text in red
 + text in green
